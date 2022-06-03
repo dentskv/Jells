@@ -1,29 +1,32 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Unity version 2020.2.2f1 ##
 
-### What is this repository for? ###
+## Project information ##
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Levels in the game are procedurally generated.
 
-### How do I get set up? ###
+Overcoming obstacles bears player coins and score points.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+In the end of level player can watch rewarded ad to double his coins.
 
-### Contribution guidelines ###
+Firebase was used as a database.
 
-* Writing tests
-* Code review
-* Other guidelines
+## How to play? ##
 
-### Who do I talk to? ###
+Switch to Android platform.
 
-* Repo owner or admin
-* Other community or team contact
+PC version: W/S to change scale of cube.
+
+Andoid/iOS version: touch up/down to scale cube.
+
+## Screenshots ##
+
+![image](https://user-images.githubusercontent.com/86664569/171845413-61262c2e-8402-4861-a989-0882a74165b5.png)
+![image](https://user-images.githubusercontent.com/86664569/171845516-8574321f-91e4-445d-b956-306e4d76cd65.png)
+![image](https://user-images.githubusercontent.com/86664569/171846297-e71660da-49de-4ce9-acd8-a396974a1a84.png)
+![image](https://user-images.githubusercontent.com/86664569/171847198-791acaa1-6c85-4c14-b79a-6db84256d7e9.png)
+![image](https://user-images.githubusercontent.com/86664569/171847245-f4887dba-009d-4bd1-8c39-2719f2b09ab5.png)
+![image](https://user-images.githubusercontent.com/86664569/171847355-c096549c-f77c-4ca9-b633-577f030ef6ba.png)
+
+
