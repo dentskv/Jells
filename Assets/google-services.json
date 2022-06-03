@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44440617205",
+    "firebase_url": "https://jells-59485-default-rtdb.firebaseio.com",
+    "project_id": "jells-59485",
+    "storage_bucket": "jells-59485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44440617205:android:b68d1d2276932a8f3945bc",
+        "android_client_info": {
+          "package_name": "com.fgfactory.Jells"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44440617205-mmtev7h7tau1d09jq5ao72b3g8qp1ppp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJX44QuMjc7MhUyHjtG7aEW85NwN3sKb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44440617205-mmtev7h7tau1d09jq5ao72b3g8qp1ppp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
